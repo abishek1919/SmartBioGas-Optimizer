@@ -26,15 +26,15 @@ Users can:
 
 ### Dashboard Interface
 
-![Dashboard Screenshot](./src/assets/dashboard.png)
+![Dashboard Screenshot]![alt text](image.png)
 
 ### Biogas Prediction Results
 
-![Prediction Screenshot](./src/assets/prediction.png)
+![Prediction Screenshot]![alt text](image-1.png)
 
 ### Analytics Charts
 
-![Analytics Screenshot](./src/assets/analytics.png)
+![Analytics Screenshot]![alt text](image-2.png)
 
 
 
