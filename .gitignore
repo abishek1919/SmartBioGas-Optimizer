@@ -1,0 +1,16 @@
+# Dependencies
+smart-biogas-optimizer/node_modules/
+
+# Build outputs
+smart-biogas-optimizer/dist/
+
+# Logs
+smart-biogas-optimizer/npm-debug.log*
+smart-biogas-optimizer/yarn-debug.log*
+smart-biogas-optimizer/yarn-error.log*
+smart-biogas-optimizer/pnpm-debug.log*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
