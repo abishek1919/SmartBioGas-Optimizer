@@ -26,15 +26,15 @@ Users can:
 
 ### Dashboard Interface
 
-![Dashboard Screenshot]![alt text](image.png)
+[alt text](image.png)
 
 ### Biogas Prediction Results
 
-![Prediction Screenshot]![alt text](image-1.png)
+[alt text](image-1.png)
 
 ### Analytics Charts
 
-![Analytics Screenshot]![alt text](image-2.png)
+[alt text](image-2.png)
 
 
 
@@ -184,5 +184,5 @@ This project is open-source and available under the **MIT License**.
 
 ## 👨‍💻 Author
 
-Abishek R
-Software Developer | IoT Enthusiast | Automation tester
+**Abishek R**
+   Software Developer | IoT Enthusiast | Automation tester
