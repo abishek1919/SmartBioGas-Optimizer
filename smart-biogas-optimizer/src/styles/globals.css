@@ -1,0 +1,52 @@
+﻿@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --bg-main: #edf7f1;
+  --bg-soft: #ffffff;
+  --text-main: #0f172a;
+  --text-muted: #475569;
+  --accent: #0f766e;
+}
+
+.dark {
+  color-scheme: dark;
+  --bg-main: #06150f;
+  --bg-soft: #0c2017;
+  --text-main: #e2e8f0;
+  --text-muted: #94a3b8;
+  --accent: #34d399;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at 20% 20%, rgba(52, 211, 153, 0.17), transparent 35%),
+    radial-gradient(circle at 78% 0%, rgba(6, 95, 70, 0.2), transparent 40%),
+    var(--bg-main);
+  color: var(--text-main);
+}
+
+.glass-card {
+  background: color-mix(in srgb, var(--bg-soft) 92%, transparent);
+  border: 1px solid rgba(148, 163, 184, 0.25);
+  backdrop-filter: blur(8px);
+}
+
+.section-title {
+  @apply text-2xl md:text-3xl font-semibold;
+}
+
+.section-subtitle {
+  @apply mt-2 text-sm md:text-base text-slate-600 dark:text-slate-400;
+}
